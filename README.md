@@ -2,7 +2,9 @@
 Guass-Seidel Power Flow program written in MATLAB.
 
 A sample output figure:
-![Vbus - Iteration](https://raw.githubusercontent.com/SHi-ON/Power-Flow/master/res/Vbus-Iter.png)
+![Vbus - Iteration Angle](https://raw.githubusercontent.com/SHi-ON/Power-Flow/master/res/angle-Vbus.png)
+
+![Vbus - Iteration Magnitude](https://raw.githubusercontent.com/SHi-ON/Power-Flow/master/res/magn-Vbus.png)
 
 
 All of project's requirements, sorted in below, in form of message boxes:
